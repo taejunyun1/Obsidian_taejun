@@ -23,7 +23,7 @@
 	- 
  - 신체적인 노동과 디지털 노동이 맞닿는 지점
 	 - #### 키워드 Keyword
-		 - Persistence 유지, Power 파워, Direction 방향성, Point 지점, Aim 조준, Typing 타이핑, DVA 동체시력, Physical body 물리적인 신체, Muscle 근육, Bone 뼈
+		 - Persistence 유지, Power 파워, Direction 방향성, Point 지점, Aim 조준, Typing 타이핑, DVA [[동체시력]], Physical body 물리적인 신체, Muscle 근육, Bone 뼈
 		 - **Ship 배, 전력과 전기 (구조물),** 
 			 - 전력과 전기(구조물)을 라이더 스캐너로 취득?
 	 - #### 주제 Theme
@@ -47,3 +47,9 @@
 
 ![[Screenshot 2025-04-23 at 11.05.39 PM.png]]![[Screenshot 2025-04-23 at 11.32.34 PM.png]]
 세스 프라이스 2018![[Screenshot 2025-04-23 at 11.35.33 PM.png]]
+
+## 관련 노트
+
+- [[Keyword_랜스미터 투 더 오브젝트 - 오리엔티드 데이터]]
+- [[PLACE 장소 & intallation 설치]]
+- [[탈식민주의 시대의 예술이 다루는 주제]]
