@@ -1,8 +1,8 @@
-chat gpt 
+chat gpt
 
 업로드한 CSV 파일(gaze_x_ref80_px_cal, gaze_y_ref80_px_cal)을 다음 절차로 처리해줘.
 
-  
+
 
 1. **데이터 로드**
 
@@ -10,7 +10,7 @@ chat gpt
 
    - n<2이면 스킵.
 
-  
+
 
 2. **필터링**
 
@@ -26,7 +26,7 @@ chat gpt
 
    - 필터링 없는 원본 버전도 병행 생성.
 
-  
+
 
 3. **범위 설정**
 
@@ -34,7 +34,7 @@ chat gpt
 
    - 중앙 확대 범위: x,y 각각 20%~80% 분위수 구간.
 
-  
+
 
 4. **시각화**
 
@@ -46,7 +46,7 @@ chat gpt
 
    - invert_yaxis() 적용(영상 좌표계와 일치).
 
-  
+
 
 5. **출력**
 
@@ -64,7 +64,7 @@ chat gpt
 
      - `_points_clean_zoom.svg` / `_lines_clean_zoom.svg` (튀는 라인 제거, 중앙 확대)
 
-  
+
 
 6. **추가 옵션(필요 시 조정)**
 
@@ -78,8 +78,8 @@ chat gpt
 
    - POINT_SIZE, LINE_WIDTH (시각 요소)
 
-  
 
-  
+
+
 
 ㅇ

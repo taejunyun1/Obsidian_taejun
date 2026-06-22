@@ -13,7 +13,7 @@
 디지털 _Digital ->_ 데이터 _Data  ->_ 변형된 오브젝트 _Distorted Object_
 
 <details>
-  <summary>Adds 추가사항</summary> 
+  <summary>Adds 추가사항</summary>
 1. 3D프린터 사용
 - 데이터의 빈곳이나 오염을 시키고, 해당 오브젝트를 뽑아냄.
 	- 부서진 사람의 손가락
@@ -44,7 +44,7 @@
 
 광학적인 사진 Optical photography -> 해상도 Resolution -> 눈 Eyes
 <details>
-  <summary>Adds 추가사항</summary> 
+  <summary>Adds 추가사항</summary>
 1. LED 페널로 이미지 돌리기
 2. 노동에서 인식해야하는 이미지 (손가락 / 텍스트 / 무언가? 등)
 3. 데이터베이스에서의 이미지
@@ -63,7 +63,7 @@
 신체 _Body ->_ 입 _Mouth ->_ 액션 _Action (발화_) _ 오브젝트 _Object -> SVG_코드라인 _SVG Code line_
 투명한 플라스틱 _Transperant Plastic ->_ 뼈 _bone ->_ 변형된 신체 _Distorted Body_
 
- 
+
 ## **Keyword**
 
 Persistence 유지, Power 파워, Direction 방향성, Point 지점, Aim 지점, Typing 타이핑, DVA 동체시력, Physical Body 물리적인 신체 - 매스감, Muscle 근육, Bone 뼈. Plastic 플라스틱
@@ -84,7 +84,7 @@ Persistence 유지, Power 파워, Direction 방향성, Point 지점, Aim 지점,
 		- 빛 LED 무빙이미지
 	- 사진
 	- 사운드+이미지
-- 이러한 형태로 변환가능함. 
+- 이러한 형태로 변환가능함.
 
 -----------------------------------------------------------------------------------------------------
 
@@ -101,15 +101,15 @@ Persistence 유지, Power 파워, Direction 방향성, Point 지점, Aim 지점,
 •타이핑 → 생성 AI, 데이터 축적
 
 
-이미지에서 신체성을 어떻게 표현할것인가? 
-- 결국 다양한 메테리얼을ㅊ실험하는 형태로 등장하는것이 아닐까? 인쇄 반복, 사진 촤령 반복, 
+이미지에서 신체성을 어떻게 표현할것인가?
+- 결국 다양한 메테리얼을ㅊ실험하는 형태로 등장하는것이 아닐까? 인쇄 반복, 사진 촤령 반복,
 
 투체널 비디오 노동
 - 원 체널
-- - 텍스트를 읽어마감 tts 
+- - 텍스트를 읽어마감 tts
 
 - 아더 채널
-- 신체 부재한 자리와 정신의 연결됨. 
+- 신체 부재한 자리와 정신의 연결됨.
 
 연결과 노동 24시간 디지털 노통 - 응시 - 자리있음 - 입력 - 실체적 신체의 부재이나 정신의 연결
 
